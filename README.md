@@ -1,2 +1,3 @@
 # nflschedule
-Will scrape the web for the current nfl schedule and save it in a database.
+This package scrapes [https://www.4for4.com/teams/schedule/2023/grid]{https://www.4for4.com/teams/schedule/2023/grid} 
+for the current nfl schedule.
