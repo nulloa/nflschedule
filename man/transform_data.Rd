@@ -2,16 +2,16 @@
 % Please edit documentation in R/transform_data.R
 \name{transform_data}
 \alias{transform_data}
-\title{Transform a row of data from \func{get_schedule}}
+\title{Transform a row of data from \link{get_schedule}}
 \usage{
 transform_data(x)
 }
 \arguments{
-\item{x}{The data from \func{get_schedule}}
+\item{x}{The data from \link{get_schedule}}
 }
 \value{
 A data.frame.
 }
 \description{
-Transform a row of data from \func{get_schedule}
+Transform a row of data from \link{get_schedule}
 }
