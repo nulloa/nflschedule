@@ -1,6 +1,6 @@
-#' Transform a row of data from \func{get_schedule}
+#' Transform a row of data from \link{get_schedule}
 #'
-#' @param x The data from \func{get_schedule}
+#' @param x The data from \link{get_schedule}
 #' @return A data.frame.
 #' @export
 
