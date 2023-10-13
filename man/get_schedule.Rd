@@ -4,12 +4,12 @@
 \alias{get_schedule}
 \title{Get the NFL schedule for a certain year}
 \usage{
-get_schedule(year = NULL, orig = F)
+get_schedule(year = NULL, original = F)
 }
 \arguments{
 \item{year}{Year of NFL schedule}
 
-\item{orig}{Return original data or transformed data}
+\item{original}{Return original data or transformed data}
 }
 \value{
 A data.frame
